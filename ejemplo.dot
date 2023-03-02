@@ -1,0 +1,17 @@
+digraph grid
+{
+	fontname="Helvetica,Arial,sans-serif"
+	node [fontname="Helvetica,Arial,sans-serif"]
+	edge [fontname="Helvetica,Arial,sans-serif"]
+	layout=dot
+	//label="grid"
+	labelloc = "t"
+	node [shape=record]
+	
+
+	edge [weight=1000 style=dashed color=dimgrey]
+
+	Matris [label = "{x,y|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19}
+    "];
+
+}
