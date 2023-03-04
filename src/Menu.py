@@ -112,7 +112,7 @@ class Menu:
         archivo = open("src/ejemplograph.dot","w")
         archivo.write(graph)        
 
-        #print(graph)
+        
 
 
 
